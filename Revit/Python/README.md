@@ -65,19 +65,3 @@
 > [...] Nitty gritty details of how to use Python the language to integrate with the underlying .NET framework
 
 #### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
-
-
-## Individual Contributors
-
-A special thanks to the creators of some of the projects or resources the community has benefited from:
-
-* [Gui Talrico](https://github.com/gtalarico)
-* [Daren Thomas](https://github.com/architecture-building-systems)
-* [Nathan Miller](https://provingground.io/)
-* [Mostapha Roudsari](https://github.com/mostaphaRoudsari)
-* [Andreas Dieckmann](https://github.com/andydandy74/)
-* [Ehsan Iran Nejad](https://github.com/eirannejad)
-* [Dimitar Venkov](https://github.com/dimven/)
-* [Konrad Sobon](https://github.com/ksobon/)
-* [Saeran Vasanthakumar](https://github.com/saeranv)
-* [Christopher Connock](https://github.com/ChristopherConnock)
