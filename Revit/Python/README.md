@@ -94,8 +94,10 @@
 
 #### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
 
-A special thanks to the earlier explorers who create some of
-the projects or resources the community has benefited from:
+
+## Individual Contributors
+
+A special thanks to the creators of some of the projects or resources the community has benefited from:
 
 * [Gui Talrico](https://github.com/gtalarico)
 * [Daren Thomas](https://github.com/architecture-building-systems)
