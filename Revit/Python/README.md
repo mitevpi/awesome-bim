@@ -69,13 +69,6 @@
 #### [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
 
 
-## Official Autodesk Resources
-
-#### [Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
-
-#### [2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
-
-
 ## Python Documents and Guides
 
 #### [Python Docs](https://docs.python.org/2/) \(2.7\)
@@ -86,7 +79,7 @@
 #### [IronPython History](https://en.wikipedia.org/wiki/IronPython)
 
 
-### IronPython + WPF
+## IronPython + WPF
 > Windows Presentation Foundation Resources focused on IronPython
 
 #### [IronPythonCookbook](http://www.ironpython.info/index.php?title=Main_Page)
@@ -102,8 +95,9 @@
 #### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
 
 A special thanks to the earlier explorers who create some of
-the projects or resources I have personally benefited from:
+the projects or resources the community has benefited from:
 
+* [Gui Talrico](https://github.com/gtalarico)
 * [Daren Thomas](https://github.com/architecture-building-systems)
 * [Nathan Miller](https://provingground.io/)
 * [Mostapha Roudsari](https://github.com/mostaphaRoudsari)
@@ -111,3 +105,5 @@ the projects or resources I have personally benefited from:
 * [Ehsan Iran Nejad](https://github.com/eirannejad)
 * [Dimitar Venkov](https://github.com/dimven/)
 * [Konrad Sobon](https://github.com/ksobon/)
+* [Saeran Vasanthakumar](https://github.com/saeranv)
+* [Christopher Connock](https://github.com/ChristopherConnock)
