@@ -3,6 +3,7 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 
 ### IDE / Coding Environments
 * [VSCode](IDE/VSCode/)
+* [Visual Studio](IDE/VisualStudio/)
 * [PyCharm](IDE/PyCharm/)
 
 ### Revit
