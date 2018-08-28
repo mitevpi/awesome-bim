@@ -39,34 +39,7 @@
 > Half lookup, half doc reader, half visual debugger, these 3 halves are helpfull when you're dealing with huge .NET frameworks or Python modules.
 
 ### [Mono IronPython Winforms Tutorial](http://zetcode.com/tutorials/ironpythontutorial/)
-> One of few IronPython WPF tutorials.
-
-
-
-## Communities
-
-[Revit API Forum](http://forums.autodesk.com/t5/revit-api/bd-p/160)
-
-[Revit API Docs](http://www.revitapidocs.com)
-
-[Stackoverflow: revit-api](http://stackoverflow.com/questions/tagged/revit-api/)
-
-[Danny Bentley Youtube](https://www.youtube.com/channel/UC1Dx-jGyRbvvHzZ8ZyGWF5w)
-
-
-## Revit API Blogs
-
-#### [Building Coder Blog](http://thebuildingcoder.typepad.com/)
-
-#### [BoostYourBim](https://boostyourbim.wordpress.com/)
-
-#### [SpiderInNet](http://spiderinnet.typepad.com/)
-
-#### [Archi-lab.net](http://archi-lab.net/)
-
-#### [dp-stuff.org](http://dp-stuff.org/)
-
-#### [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api)  
+> One of few IronPython WPF tutorials.  
 
 
 ## Python Documents and Guides
@@ -90,7 +63,6 @@
 
 #### [Dark Corners Of Python](http://www.voidspace.org.uk/ironpython/dark-corners.shtml)
 > [...] Nitty gritty details of how to use Python the language to integrate with the underlying .NET framework
-
 
 #### [SimpleWPFAppication](https://lifebeyondfife.com/79-ironpython-wpf-html/)
 
