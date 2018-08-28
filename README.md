@@ -8,6 +8,7 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 ### Revit
 * [C#](Revit/C%23)
 * [Python](Revit/Python)
+* [Developer Tools](Revit/Developer Tools)
 
 ### Web Development
 * [Forge](Web/Forge/)
