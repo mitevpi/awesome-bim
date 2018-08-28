@@ -11,7 +11,7 @@
 #### [2019 My First Revit Plug-in](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/simplecontent/content/my-first-revit-plug-overview.html)
 > Comprehensive tutorial for C# Revit development. This should be one's first stop.
 
-#### [Visual Studio Debug Troubleshooting](Revit/C%23/Assets/FUSLOGVW_debug.pdf)
+#### [Visual Studio Debug Troubleshooting](Assets/FUSLOGVW_debug.pdf)
 > Vsual Studio's native debugger is the best way to debug Revit addins. Sometimes however, conflicts exist within the assembly and the debugger cannot run. We use FUSLOGVW to find these errors.
 
 #### [Add-In Manager](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/screencast/Main/Details/f62848c4-66fb-4ccd-8d74-0626e80c42d5.html)
