@@ -1,6 +1,6 @@
 # PyCharm Resources
 
-[PyCharm Setup](Assets/pycharm_macOS.png)
+![PyCharm Setup](Assets/pycharm_macOS.png)
 
 ## Developer Essentials
 
