@@ -2,14 +2,11 @@
 
 ## Developer Essentials
 
-#### [pyRevit](https://github.com/eirannejad/pyRevit)
-> IronPython scripts and add-in tab for Autodesk Revit®. This is the primary development vehicle.
-
-#### [Revit Python Wrapper](https://github.com/gtalarico/revitpythonwrapper)
-> A Revit API Wrapper to help Python programmers write more pythonic Revit API code.
-
 #### [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell)
 > An IronPython scripting environment for Autodesk Revit. This is the primary prototyping vehicle.
+
+#### [pyRevit](https://github.com/eirannejad/pyRevit)
+> IronPython scripts and add-in tab for Autodesk Revit®. This is the primary development vehicle.
 
 #### [Debug/Develop Workflow](https://forum.dynamobim.com/t/debugging-python-code/12729)
 > Process of debugging using RPW's console function. Should be adapted to non-Dynamo as well.
@@ -24,9 +21,7 @@
 
 
 
-## Revit-Python
-
-### Libraries / Helpers
+## Libraries and Helpers
 
 #### [Revit Python Wrapper](https://github.com/gtalarico/revitpythonwrapper)
 > A Revit API Wrapper to help Python programmers write more pythonic Revit API code.
@@ -79,6 +74,7 @@
 #### [Autodesk Developer Network](http://usa.autodesk.com/adsk/servlet/index?siteID=123112&id=2484975)
 
 #### [2017: Developer's Guide](http://help.autodesk.com/view/RVT/2017/ENU/?guid=GUID-F0A122E0-E556-4D0D-9D0F-7E72A9315A42)  
+
 
 ## Python Documents and Guides
 
