@@ -12,9 +12,10 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 * [Developer Tools](Revit/DeveloperTools)
 
 ### Web Development
-* [Forge](Web/Forge/)
-* [Flask](Web/Flask/)
-* [Django](Web/Django/)
+* [Forge](https://forge.autodesk.com)
+* [Flask](http://flask.pocoo.org)
+* [Django](https://www.djangoproject.com)
+* [Bootstrap](http://getbootstrap.com)
 
 ## Special Thanks & Recognition
 
