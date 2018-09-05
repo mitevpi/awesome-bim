@@ -19,9 +19,7 @@
 #### [Visual Studio Native Debug Settings](/../../tree/master/IDE/VisualStudio/Assets/visualstudio_debugsettings.png)
 > How to configure project properties to use Visual Studio's integrated debugging.
 
-![Image test](https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png = 100x)
-
-<a href="url"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png" align="left" height="100"></a>
 
 #### [Visual Studio Debug Native Troubleshooting](/../../tree/master/IDE/VisualStudio/Assets/visualstudio_debug_troubleshooting.png)
 > Sometimes debugging inexplicably fails when using the Visual Studio native debugger. This is typically due to assemblies being looked for in the wrong places. We can find the source of the problem using FUSLOGVW.exe which is included with the Windows SDK. It logs assembly binding failures, and lets you find the true source of errors.
