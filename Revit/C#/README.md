@@ -25,8 +25,7 @@
 
 #### [Revit Python Shell Debugging](https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_rps.png)
 > Since Revit uses IronPython as opposed to CPython (Python 3.X), we can use the [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell) to import .NET compiled assemblies. We can interrogate the public members and/or trigger breakpoints set from within Visual Studio, as long as the Revit instance hosting the Python Shell is also launched through Visual Studio's native debugger.
-
-<a href="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png" height="400"></a>
+> <a href="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png" height="400"></a>
 
 
 ## Community Resources
