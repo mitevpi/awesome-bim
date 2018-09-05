@@ -7,7 +7,7 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 * [PyCharm](IDE/PyCharm/)
 
 ### Revit
-* [C#](Revit/C%23)
+* [C#](Revit/C-Sharp)
 * [Python](Revit/Python)
 * [Developer Tools](Revit/DeveloperTools)
 
