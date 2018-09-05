@@ -4,6 +4,7 @@
 
 #### [Revit API Documentation NEW](https://apidocs.co/)
 > NEW! / BETA - Documentation for all public classes and members.
+> <a href="https://github.com/mitevpi/awesome-bim/blob/master/IDE/VisualStudio/Assets/apidocs.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/IDE/VisualStudio/Assets/apidocs.png" height="400"></a>
 
 #### [Revit API Documentation](http://www.revitapidocs.com/)
 > Documentation for all public classes and members.
@@ -26,6 +27,10 @@
 #### [Revit Python Shell Debugging](https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_rps.png)
 > Since Revit uses IronPython as opposed to CPython (Python 3.X), we can use the [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell) to import .NET compiled assemblies. We can interrogate the public members and/or trigger breakpoints set from within Visual Studio, as long as the Revit instance hosting the Python Shell is also launched through Visual Studio's native debugger.
 > <a href="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/csharp_debug_rps.png" height="400"></a>
+
+#### [Revit Macro Editor Debugging](https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png)
+> Normally, Revit will lock a file (.dll) which it has referenced. This makes debugging challenging, as Revit constantly has to be restarted in order to actualize a change in the code. Using the Revit Macro Editor can be a way around this, as the Macro Editor lets you reference a compiled .dll, but it does not lock it - instead it copies it to another location, and overwrites on top of that copy when there are changes.
+> <a href="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png"><img src="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png" height="400"></a>
 
 
 ## Community Resources
