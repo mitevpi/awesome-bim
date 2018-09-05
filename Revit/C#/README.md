@@ -16,10 +16,10 @@
 
 ## Debugging Options
 
-#### [Visual Studio Native Debug Settings](/../../tree/master/IDE/VIsualStudio/Assets/visualstudio_debugsettings.png)
+#### [Visual Studio Native Debug Settings](/../../tree/master/IDE/VisualStudio/Assets/visualstudio_debugsettings.png)
 > How to configure project properties to use Visual Studio's integrated debugging.
 
-#### [Visual Studio Debug Native Troubleshooting](Assets/visualstudio_debug_troubleshooting.png)
+#### [Visual Studio Debug Native Troubleshooting](/../../tree/master/IDE/VisualStudio/Assets/visualstudio_debug_troubleshooting.png)
 > Sometimes debugging inexplicably fails when using the Visual Studio native debugger. This is typically due to assemblies being looked for in the wrong places. We can find the source of the problem using FUSLOGVW.exe which is included with the Windows SDK. It logs assembly binding failures, and lets you find the true source of errors.
 
 
