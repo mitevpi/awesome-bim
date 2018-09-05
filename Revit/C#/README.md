@@ -22,7 +22,7 @@
 #### [Visual Studio Debug Native Troubleshooting](/../../tree/master/IDE/VisualStudio/Assets/visualstudio_debug_troubleshooting.png)
 > Sometimes debugging inexplicably fails when using the Visual Studio native debugger. This is typically due to assemblies being looked for in the wrong places. We can find the source of the problem using FUSLOGVW.exe which is included with the Windows SDK. It logs assembly binding failures, and lets you find the true source of errors.
 
-#### [Visual Studio Debug Settings](Assets/csharp_debug_rps.png)
+#### [Revit Python Shell Debugging](https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets)
 > Since Revit uses IronPython as opposed to CPython (Python 3.X), we can use the [RevitPythonShell](https://github.com/architecture-building-systems/revitpythonshell) to import .NET compiled assemblies. We can interrogate the public members and/or trigger breakpoints set from within Visual Studio, as long as the Revit instance hosting the Python Shell is also launched through Visual Studio's native debugger.
 
 
