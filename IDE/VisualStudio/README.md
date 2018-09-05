@@ -1,3 +1,5 @@
+[Back](/../../tree/master)
+
 # Visual Studio Resources
 
 ![Visual Studio Setup](Assets/visualstudio_windows.png)
