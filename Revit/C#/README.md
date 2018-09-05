@@ -4,7 +4,7 @@
 
 #### [Revit API Documentation NEW](https://apidocs.co/)
 > NEW! / BETA - Documentation for all public classes and members.
-> <a href="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/apidocs.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/apidocs.png" height="400"></a>
+> <a href="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/apidocs.png"><img src="https://github.com/mitevpi/awesome-bim/blob/master/Revit/C%23/Assets/apidocs.png" height="500"></a>
 
 #### [Revit API Documentation](http://www.revitapidocs.com/)
 > Documentation for all public classes and members.
