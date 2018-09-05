@@ -11,11 +11,16 @@
 #### [2019 My First Revit Plug-in](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/simplecontent/content/my-first-revit-plug-overview.html)
 > Comprehensive tutorial for C# Revit development. This should be one's first stop.
 
-#### [Visual Studio Debug Troubleshooting](Assets/FUSLOGVW_debug.pdf)
-> Vsual Studio's native debugger is the best way to debug Revit addins. Sometimes however, conflicts exist within the assembly and the debugger cannot run. We use FUSLOGVW to find these errors.
-
 #### [Add-In Manager](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/screencast/Main/Details/f62848c4-66fb-4ccd-8d74-0626e80c42d5.html)
-> The add-in manager is used for rebuilding assemblies in Visual Studio and running them live without having to restart the Revit instance. Very useful for saving time when testing. Not a replacement for Visual Studio's native debugger. 
+> The add-in manager is used for rebuilding assemblies in Visual Studio and running them live without having to restart the Revit instance. Very useful for saving time when testing. Not a replacement for Visual Studio's native debugger.
+
+## Debugging Options
+
+#### [Visual Studio Native Debug Settings](/../../tree/master/IDE/VIsualStudio/Assets/visualstudio_debugsettings.png)
+> How to configure project properties to use Visual Studio's integrated debugging.
+
+#### [Visual Studio Debug Native Troubleshooting](Assets/visualstudio_debug_troubleshooting.png)
+> Sometimes debugging inexplicably fails when using the Visual Studio native debugger. This is typically due to assemblies being looked for in the wrong places. We can find the source of the problem using FUSLOGVW.exe which is included with the Windows SDK. It logs assembly binding failures, and lets you find the true source of errors.
 
 
 ## Community Resources
