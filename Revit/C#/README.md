@@ -29,8 +29,6 @@
 #### [Archi-Lab](http://archi-lab.net/create-your-own-tab-and-buttons-in-revit/)
 > Revit API tutorials.
 
-#### [Visual Studio Templates](http://thebuildingcoder.typepad.com/blog/2017/04/revit-2018-visual-studio-c-and-vb-net-add-in-wizards.html)
-> Visual Studio project templates for Revit development.
 
 
 ## Code Snippets & Examples
