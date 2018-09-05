@@ -30,7 +30,7 @@
 
 #### [Revit Macro Editor Debugging](https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png)
 > Normally, Revit will lock a file (.dll) which it has referenced. This makes debugging challenging, as Revit constantly has to be restarted in order to actualize a change in the code. Using the Revit Macro Editor can be a way around this, as the Macro Editor lets you reference a compiled .dll, but it does not lock it - instead it copies it to another location, and overwrites on top of that copy when there are changes. This works best for modular code - class libraries, functions, methods, etc. For full add-in/application debugging, the [Add-In Manager](https://knowledge.autodesk.com/support/revit-products/getting-started/caas/screencast/Main/Details/f62848c4-66fb-4ccd-8d74-0626e80c42d5.html) is optimal.
-> > <a href="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png"><img src="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png" height="400"></a>
+> > <a href="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png"><img src="https://github.com/mitevpi/awesome-bim/tree/master/Revit/C%23/Assets/csharp_debug_macroeditor.png" height="300"></a>
 
 
 ## Community Resources
