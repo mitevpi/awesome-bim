@@ -15,23 +15,23 @@
 
 ## Revit API Blogs
 
-#### [Building Coder Blog](http://thebuildingcoder.typepad.com/)
+[Building Coder Blog](http://thebuildingcoder.typepad.com/)
 
-#### [BoostYourBim](https://boostyourbim.wordpress.com/)
+[BoostYourBim](https://boostyourbim.wordpress.com/)
 
-#### [SpiderInNet](http://spiderinnet.typepad.com/)
+[SpiderInNet](http://spiderinnet.typepad.com/)
 
-#### [Archi-lab.net](http://archi-lab.net/)
+[Archi-lab.net](http://archi-lab.net/)
 
-#### [dp-stuff.org](http://dp-stuff.org/)
+[dp-stuff.org](http://dp-stuff.org/)
 
-#### [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api
+[Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api
 
 
 ## Autodesk Resources
 
-#### [Revit Developer's Guide](http://help.autodesk.com/view/RVT/2019/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html)
+[Revit Developer's Guide](http://help.autodesk.com/view/RVT/2019/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html)
 > Developer-specific documentation within the broader Revit documentation.
 
-#### [Autodesk Developer's Network](https://www.autodesk.com/developer-network/platform-technologies/revit)
+[Autodesk Developer's Network](https://www.autodesk.com/developer-network/platform-technologies/revit)
 > Central Hub for Revit development news/updates. SDK's can be downloaded from here. 
