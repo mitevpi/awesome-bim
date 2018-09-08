@@ -1,4 +1,7 @@
 # Awesome BIM
+
+[![Join the chat at https://gitter.im/awesome-bim/Lobby](https://badges.gitter.im/awesome-bim/Lobby.svg)](https://gitter.im/awesome-bim/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.
 
 ### IDE / Coding Environments
