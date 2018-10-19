@@ -2,7 +2,7 @@
 
 # Autodesk Forge Resources
 
->![Forge Logo](Assets/forge-logo.png)
+![Forge Logo](Assets/forge-logo.png)
 
 ## Developer Essentials
 
@@ -36,6 +36,12 @@
 
 #### [Forge Blog](https://forge.autodesk.com/blog)
 > Place for getting help, and interacting with the community.
+
+#### [Forge Stack Overflow](https://stackoverflow.com/questions/tagged/autodesk-forge)
+> List of the latest Forge API questinos submitted to [Stack Overflow](https://stackoverflow.com/).
+
+#### [Forge YouTube](https://www.youtube.com/playlist?list=PL_6ApchKwjN9CZCqUl4RZrsyDvnTV)
+> Autodesk Forge YouTube channel.
 
 
 ## SDKs
