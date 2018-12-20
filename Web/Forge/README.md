@@ -29,8 +29,12 @@
 
 ## Other Resources
 
-#### [Postman Calls](https://forge.autodesk.com/blog/my-postman-collection)
-> Collection of Forge API calls for [Postman](https://www.getpostman.com/).
+#### [Postman Calls 3-Legged OAuth](https://youtu.be/WCeX6aq5In0)
+> Video guide for setting up [Postman](https://www.getpostman.com/) to make 3-Legged OAuth Forge API calls.
+> Useful for getting started with Forge, or just prototyping some business-logic without hard coding it.
+
+#### [Postman Calls 2-Legged OAuth](https://forge.autodesk.com/blog/my-postman-collection)
+> Collection of 2-Legged OAuth Forge API calls for [Postman](https://www.getpostman.com/).
 >
 >![Postman Sample](Assets/forge-postman.png)
 
