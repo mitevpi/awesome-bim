@@ -12,7 +12,6 @@
 
 [Danny Bentley Youtube](https://www.youtube.com/channel/UC1Dx-jGyRbvvHzZ8ZyGWF5w)
 
-
 ## Revit API Blogs
 
 [Building Coder Blog](http://thebuildingcoder.typepad.com/)
@@ -27,11 +26,12 @@
 
 [Nathan's Revit API Notebook](http://wiki.theprovingground.org/revit-api
 
-
 ## Autodesk Resources
 
 [Revit Developer's Guide](http://help.autodesk.com/view/RVT/2019/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html)
+
 > Developer-specific documentation within the broader Revit documentation.
 
 [Autodesk Developer's Network](https://www.autodesk.com/developer-network/platform-technologies/revit)
-> Central Hub for Revit development news/updates. SDK's can be downloaded from here. 
+
+> Central Hub for Revit development news/updates. SDK's can be downloaded from here.

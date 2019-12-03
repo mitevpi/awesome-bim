@@ -5,20 +5,28 @@
 A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.
 
 ### IDE / Coding Environments
+
 * [VSCode](IDE/VSCode/)
 * [Visual Studio](IDE/VisualStudio/)
 * [PyCharm](IDE/PyCharm/)
 
 ### Revit
+
 * [C#](Revit/C-Sharp)
 * [Python](Revit/Python)
 * [Developer Tools](Revit/DeveloperTools)
 
-### Web Development
+### Web Development (Frontend)
+
+* [Vue.js](Web/Vue)
+* [Vuetify](https://vuetifyjs.com/en/)
+
+### Web Development (Backend)
+
 * [Forge](Web/Forge)
+* [GraphQL](Web/GraphQL)
 * [Flask](http://flask.pocoo.org)
 * [Django](https://www.djangoproject.com)
-* [Bootstrap](http://getbootstrap.com)
 
 ## Special Thanks & Recognition
 
