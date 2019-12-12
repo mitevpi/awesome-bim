@@ -55,3 +55,7 @@ A special thanks to the creators of some of the projects and resources listed he
 - [Konrad Sobon](https://github.com/ksobon/)
 - [Nathan Miller](https://provingground.io/)
 - [Daren Thomas](https://github.com/architecture-building-systems)
+
+
+## BIM Level 8 Resources
+- [BIM Level 8](https://twitter.com/bimlevel8)
