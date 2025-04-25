@@ -26,6 +26,7 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 
 - [Vue.js](Web/Vue)
 - [Vuetify](https://vuetifyjs.com/en/)
+- [xeokit SDK](https://xeokit.io/)
 
 ### Web Development (Backend)
 
