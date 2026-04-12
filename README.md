@@ -55,3 +55,7 @@ A special thanks to the creators of some of the projects and resources listed he
 - [Konrad Sobon](https://github.com/ksobon/)
 - [Nathan Miller](https://provingground.io/)
 - [Daren Thomas](https://github.com/architecture-building-systems)
+
+### Cost Estimation & Construction Management
+
+- [OpenConstructionERP](https://github.com/datadrivenconstruction/OpenConstructionERP) - Open-source construction cost estimation and project management platform. BOQ editor, CAD/BIM takeoff (RVT/IFC/DWG/DGN), AI-powered estimation with 7 LLM providers, 4D/5D planning, 55,000+ cost items (CWICR), 20 regional standards, 21 languages. FastAPI + React. AGPL-3.0.
