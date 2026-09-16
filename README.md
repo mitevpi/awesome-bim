@@ -40,6 +40,10 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 - [Libraries & Frameworks (JavaScript)](Utilities/LibrariesJavaScript)
 - [Libraries & Frameworks (.NET)](Utilities/LibrariesDotnet)
 
+## Cost Estimation & Construction Management
+
+- [BidWright](https://github.com/braedonsaunders/bidwright) - Open-source construction estimating with AI bid intake, 2D/3D/PDF/BIM/point-cloud takeoff, pricing, and quotes.
+
 ## Special Thanks & Recognition
 
 A special thanks to the creators of some of the projects and resources listed here. (Please send a PR or PM for additonal credits which I may have missed.)
