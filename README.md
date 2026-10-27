@@ -39,6 +39,7 @@ A curated collection of useful BIM (Building Information Modeling) resources, li
 - [Libraries & Frameworks (Universal)](Utilities/LibrariesUniveral)
 - [Libraries & Frameworks (JavaScript)](Utilities/LibrariesJavaScript)
 - [Libraries & Frameworks (.NET)](Utilities/LibrariesDotnet)
+* [Level Commercial Building Value & Trade Maintenance Calculator](https://levelcfo.com/tools/building-revenue-calculator/) - Estimates replacement value and annual MEP, roofing, elevator, fire-protection, and janitorial expenditure across 11 commercial building types and 51 US states/DC ([Open Dataset](https://github.com/levelcfo/trade-economy-index-data)).
 
 ## Special Thanks & Recognition
 
